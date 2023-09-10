@@ -24,9 +24,9 @@ Void Grabber is a multifunctional tool that includes:
 - **🔄 Persistence**: Configure the stub to run on Windows startup.
 - **🔒 Security Evasion**: Implement anti-virtual machine measures.
 - **🌐 Network Control**: Block and unblock AV-related websites.
-- **🗑️ Self-Destruct**: Automatically delete the stub after use.
+- **🗑️ Self-Destruct**: Automatically delete the logger after use
 - **🚨 Error Simulation**: Generate custom fake error messages.
-- **📂 File Manipulation**: Bind, resize, and obfuscate the stub.
+- **📂 File Manipulation**: Bind, resize, and obfuscate the logger.
 - **🚪 Application Backdoor**: Inject a backdoor into the Discord client.
 - **🔐 Data Theft**: Steal various data, including Discord tokens, session information, browser data, and more.
 
@@ -37,10 +37,10 @@ Void Grabber is a multifunctional tool that includes:
 Customize the behavior of your stub with these options:
 
 - **🔔 Ping Me**: Pings @everyone when someone runs the stub.
-- **🦠 Anti VM**: Attempts to prevent the stub from running on a virtual machine.
+- **🦠 Anti VM**: Works on a virtual machine.
 - **🚀 Put On Startup**: Run the stub on Windows startup.
-- **🔥 Melt Stub**: Delete the stub after use.
-- **📊 Pump Stub**: Increase the stub's size as needed.
+- **🔥 Melt Stub**: Delete the logger after use.
+- **📊 Pump Stub**: Pumps size as needed.
 - **🚫 Fake Error**: Create custom (fake) error messages.
 - **🚷 Block AV Sites**: Block antivirus-related sites (unblock as needed).
 - **📥 Discord Injection**: Establish a backdoor in the Discord client.
