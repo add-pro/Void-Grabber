@@ -1,6 +1,6 @@
 # 🕳️ Void Grabber
 
-![Void Grabber Logo](insert_logo_url_here)
+![Void Grabber Logo](https://imgur.com/NN91zCk)
 
 **Disclaimer:** 🚫 This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
@@ -58,6 +58,9 @@ To build Void Grabber, ensure you have the following:
 - Working Internet Connection
 - Python (Version 3.10+)
 
+# 🚨 Antivirus False Positives
+- Please note that due to the nature of the program, your antivirus or program will flag it as a virus, it's very common as it's grabber but it's completely safe.
+
 ## 🛠️ Build Instructions
 
 1. Download and install Python 3, ensuring the "Add to PATH" option is enabled during installation.
@@ -66,5 +69,5 @@ To build Void Grabber, ensure you have the following:
 4. Extract the downloaded ZIP file.
 5. Navigate to the Void Grabber folder and run the `Builder` file.
 6. This should download all the nessecary modules and everything missing
-7 It should automatically then run the builder.
+7. It should automatically then run the builder.
 8. Fill in the necessary details in the builder interface and click the "Build" button.
